@@ -1,0 +1,52 @@
+/*Encabezado*/
+
+/*Cuerpo*/
+main {
+    background-color: lightgray;
+}
+
+/*Cos*/
+
+section {
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 150px;
+    margin: 25px;
+}
+
+section h2 {
+    margin-bottom: 10px;
+}
+
+section p {
+    margin-bottom: 30px;
+}
+
+section article {
+    display: inline-block;
+    width: 15%;
+    margin: 0 10px; 
+    text-align: center;
+    vertical-align: top; 
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+section article:hover {
+    transform: scale(1.05);
+}
+
+section article img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+section article p {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,56 @@
+/*Encabezado*/
+
+/*Cuerpo*/
+section {
+    margin: 20px;
+    width: 80%;
+    height: 90%;
+    padding-left: 25px;
+}
+
+section a {
+    color: darkcyan;
+    font-weight: bold;
+    text-decoration: double;
+}
+
+main {
+    background-color: lightgray;
+}
+
+/*CV*/
+
+.descripcion {
+    padding-top: 25px;
+    width: 70%;
+}
+
+.descripcion h3 {
+    padding-left: 50px;
+}
+
+.descripcion dl {
+    margin: 5px;
+}
+
+.empresa {
+    width: 50%;
+    height: 200px;
+    float: right;
+}
+
+.empresa img {
+    float: right;
+}
+
+.titulos {
+    padding-left: 25%;
+    padding-top: 180px;
+    height: 200px;
+    width: 50%;
+}
+
+.aficiones {
+    padding-left: 35px;
+    height: 200px;
+}
