@@ -1,5 +1,24 @@
 /*Encabezado*/
+.top-bar{
+    
+    width: 100%;
+    height: 10%;
+    background-color: lightgray;
+    /* padding: 10px 20px; */
+    overflow: hidden;
+}
 
+#infoPerfil{
+    margin-left: 10px;
+    height: 10px;
+    display: inline-block;
+}
+
+#botonesPerfil{
+    margin-top: 25px;
+    margin-right: 10px;
+    float: right;
+}
 /*Cuerpo*/
 main {
     background-color: lightgray;
