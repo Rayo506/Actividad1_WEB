@@ -1,0 +1,24 @@
+/*Encabezado*/
+
+/*Cuerpo*/
+main {
+    background-color: lightgray;
+}
+
+/*Cos*/
+section {
+    padding: 20px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+    margin: 25px;
+    width: 80%;
+}
+
+section img{
+    float: right;
+    padding-top: 80px;
+}
+
+section dl{
+ margin: 5px;
+}

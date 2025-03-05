@@ -40,3 +40,10 @@ section h2 {
     vertical-align: top;
     margin: 0 10px;
 }
+
+section article img {
+    width: 350px; 
+    height: 250px;
+    object-fit: cover;
+    margin-top: 10px;
+}

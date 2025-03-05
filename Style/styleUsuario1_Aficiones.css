@@ -40,8 +40,8 @@ section article:hover {
 }
 
 section article img {
-    width: 80px;
-    height: 80px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     margin-top: 10px;
     border-radius: 10px;
